@@ -1,0 +1,21 @@
+# Credentials
+config.json
+
+# Runtime data
+data/conv.json
+data/bot.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
